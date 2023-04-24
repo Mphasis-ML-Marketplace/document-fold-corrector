@@ -1,0 +1,2 @@
+Please refer this page for sample input
+https://github.com/lmmx/page-dewarp/tree/master/example_input
